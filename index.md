@@ -1,4 +1,4 @@
-I am PhD student in economics at King's College London and [ESCoE](https://www.escoe.ac.uk/).
+I am PhD student in economics at King's College London and [ESCoE](https://www.escoe.ac.uk/). From October 2021 I will be a postdoc at [ESCoE](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) in the BI Norwegian Business School.
 
 ## Projects
 
