@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+I am PhD student in economics at King's College London and [ESCoE](https://www.escoe.ac.uk/).
+
+## Ongoing projects
 
 You can use the [editor on GitHub](https://github.com/paullabonne/paullabonne.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
