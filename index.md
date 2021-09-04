@@ -2,9 +2,9 @@ I am PhD student in economics at King's College London and [ESCoE](https://www.e
 
 ## Ongoing projects
 
-You can use the [editor on GitHub](https://github.com/paullabonne/paullabonne.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Capturing GDP nowcast uncertainty in real time [paper](https://arxiv.org/abs/2012.02601)
+- A timely indicator of migration flows using google search queries on national newspapers
+- Nowcasting in the presence of large measurement errors and revisions
 
 ### Markdown
 
