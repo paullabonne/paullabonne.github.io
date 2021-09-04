@@ -8,9 +8,10 @@ I am a PhD student in economics at King's College London and [ESCoE](https://www
 
 ## Publications
 
-- Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data, with Martin Weale
-Journal of the Royal Statistical Society (Series A), ([paper](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12568))
-- The financial foundations of the productivity puzzle, with Jagjit S. Chadha and Amit Kara ([paper](https://www.cambridge.org/core/journals/national-institute-economic-review/article/abs/financial-foundations-of-the-productivity-puzzle/F221B71124244D41B0F5710918A34CC4))
+- Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data, with Martin Weale\\
+**Journal of the Royal Statistical Society (Series A)**, ([paper](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12568))
+- The financial foundations of the productivity puzzle, with Jagjit S. Chadha and Amit Kara\\
+**National Institute Economic Review**, ([paper](https://www.cambridge.org/core/journals/national-institute-economic-review/article/abs/financial-foundations-of-the-productivity-puzzle/F221B71124244D41B0F5710918A34CC4))
  
 
 <!---**Bold** and _Italic_ and `Code` text--->
