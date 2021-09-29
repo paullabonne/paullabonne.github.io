@@ -1,4 +1,4 @@
-I am a PhD student in economics at King's College London and [ESCoE](https://www.escoe.ac.uk/). From October 2021 I will be a postdoc at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School. You can find my CV [here](https://github.com/paullabonne/paullabonne.github.io/blob/main/Files/CV.pdf).
+I am a postdoc at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School. You can find my CV [here](https://github.com/paullabonne/paullabonne.github.io/blob/main/Files/CV.pdf).
 
 ## Projects
 
