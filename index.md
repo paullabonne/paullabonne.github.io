@@ -3,7 +3,7 @@ I am a postdoc at [CAMP](https://www.bi.edu/research/research-centres/centre-of-
 ## Projects
 
 - Capturing GDP nowcast uncertainty in real time ([paper](https://arxiv.org/abs/2012.02601))
-- A timely indicator of migration flows using google search queries on national newspapers
+- A timely indicator of migration net flow using google search queries on national newspapers
 - Nowcasting in the presence of large measurement errors and revisions, with Martin Weale
 
 ## Publications
