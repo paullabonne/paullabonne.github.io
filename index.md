@@ -1,4 +1,4 @@
-I am a postdoc at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School. You can find my CV [here](https://github.com/paullabonne/paullabonne.github.io/blob/main/Files/CV.pdf).
+I am a postdoc at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School. I tackle problems in economic measurement using time series methods. You can find my CV [here](https://github.com/paullabonne/paullabonne.github.io/blob/main/Files/CV.pdf).
 
 ## Projects
 
