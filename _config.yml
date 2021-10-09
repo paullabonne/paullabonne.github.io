@@ -1,3 +1,9 @@
 remote_theme: riggraz/no-style-please
 
 title: Paul Labonne
+
+---
+---
+body {
+  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
+}
