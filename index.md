@@ -2,9 +2,9 @@
 
 I am a postdoc researcher in economics at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School.
 
-<br /><br />
+<br />
 You can find my CV [here](https://github.com/paullabonne/paullabonne.github.io/files/7316422/CV.pdf).
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ## Projects
 
