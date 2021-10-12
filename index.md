@@ -9,7 +9,7 @@ You can find my CV [here](https://github.com/paullabonne/paullabonne.github.io/f
 
 ## Projects
 
-- Capturing GDP nowcast uncertainty in real time ([arXiv paper](https://arxiv.org/abs/2012.02601)) [(latest version)](https://github.com/paullabonne/paullabonne.github.io/files/7329027/Labonne.2021.pdf)
+- Capturing GDP nowcast uncertainty in real time ([arXiv paper](https://arxiv.org/abs/2012.02601)) ([latest version](https://github.com/paullabonne/paullabonne.github.io/files/7329027/Labonne.2021.pdf))
 
 - A timely indicator of migration net flow using google search queries on national newspapers
 - Nowcasting in the presence of large measurement errors and revisions, with Martin Weale
