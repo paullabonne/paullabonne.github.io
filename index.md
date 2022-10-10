@@ -11,8 +11,8 @@ I am a postdoc researcher in economics at [CAMP](https://www.bi.edu/research/res
 
 ## Projects
 
-- Capturing GDP nowcast uncertainty in real time ([arXiv paper](https://arxiv.org/abs/2012.02601))
-- Bayes Estimates of Shifted Mixtures using Multimodal Discrete Data, with Nalan Basturk, Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk
+- Capturing GDP nowcast uncertainty in real time [[arXiv paper](https://arxiv.org/abs/2012.02601)]
+- Bayes Estimates of Shifted Mixtures using Multimodal Discrete Data, with Nalan Basturk, Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk [[R package](https://github.com/paullabonne/BayesMultiMode)]
 - A timely indicator of migration net flow using google search queries on national newspapers
 - Nowcasting in the presence of large measurement errors and revisions, with Martin Weale
 
