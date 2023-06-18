@@ -30,5 +30,4 @@ with Jagjit S. Chadha and Amit Kara<br/>
 ## Software packages
 
 - BayesMultiMode : Bayesian mode inference in R<br />
-<a href="[link address](https://cranlogs.r-pkg.org/badges/BayesMultiMode)"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp;
-<img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
+<a href="[link address](https://cranlogs.r-pkg.org/badges/BayesMultiMode)"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
