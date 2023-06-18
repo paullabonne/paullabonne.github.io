@@ -26,3 +26,9 @@ with Martin Weale<br/>
 - *The financial foundations of the productivity puzzle*<br/>
 with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
+
+## Software packages
+
+- BayesMultiMode : Bayesian mode inference in R <br/>
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesMultiMode)](https://cran.r-project.org/package=BayesMultiMode)
+[![CRAN_Status_Badge](https://cranlogs.r-pkg.org/badges/BayesMultiMode)](https://cran.r-project.org/package=BayesMultiMode)
