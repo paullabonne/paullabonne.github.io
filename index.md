@@ -1,4 +1,4 @@
-<img align="left" width="250" alt="Photo" src="https://github.com/paullabonne/paullabonne.github.io/assets/89748060/b198c944-5efb-41c1-926b-17e2357395da">
+<img align="left" width="250" alt="Photo" src="https://github.com/paullabonne/paullabonne.github.io/assets/89748060/f2a31b64-1f15-48e7-a91e-87f5df6ed4ed">
 
 I am a postdoc researcher in economics at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School.
 <br /><br /><br />
