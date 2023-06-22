@@ -1,7 +1,7 @@
-<div style="margin-right: 1000px;"><img align="left" width="250" alt="Photo" src="https://github.com/paullabonne/paullabonne.github.io/assets/89748060/dfb3022a-f0ab-4a64-8197-a171265234c3"></div>
+<img align="left" width="200" alt="Photo" src="https://github.com/paullabonne/paullabonne.github.io/assets/89748060/dfb3022a-f0ab-4a64-8197-a171265234c3">
 
 I am a postdoc researcher in economics at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School.
-<br />
+<br /><br /><br />
 
 [CV](https://github.com/paullabonne/paullabonne.github.io/blob/main/cv.pdf)<br />
 [Github](https://github.com/paullabonne)
