@@ -10,11 +10,12 @@ I am a postdoc researcher in economics at [CAMP](https://www.bi.edu/research/res
 ## Projects
 
 - Aysmmetric uncertainty: nowcasting using skewness in real-time data<br/>
-**R&R International Journal of Forecasting**<br/>[[discussion paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)]
+**R&R International Journal of Forecasting**<br/>[[working paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)]
 - Risky news<br/>with Vegard H. Larsen and Leif Anders Thorsrud
 - BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[R package](https://github.com/paullabonne/BayesMultiMode)]
-- Bayesian Mode Inference for Discrete Distributions in Economics and Finance<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk
+- Bayesian Mode Inference for Discrete Distributions in Economics and Finance<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
+[[working paper](https://tinbergen.nl/discussion-paper/6259/23-038-iii-bayesian-mode-inference-for-discrete-distributions-in-economics-and-finance)]
 - Bayesian estimation of modal features from flexible mixtures using discrete multimodal data<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk
 - A timely indicator of people crossborder net flow using google search queries on national newspapers
 
