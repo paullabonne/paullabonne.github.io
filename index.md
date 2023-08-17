@@ -11,7 +11,7 @@ I am a postdoc researcher in economics at [CAMP](https://www.bi.edu/research/res
 
 - Aysmmetric uncertainty: nowcasting using skewness in real-time data<br/>
 **R&R International Journal of Forecasting**<br/>[[working paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)]
-- Risky news<br/>with Vegard H. Larsen and Leif Anders Thorsrud
+- Risky news<br/>with Leif Anders Thorsrud
 - BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 - Bayesian Mode Inference for Discrete Distributions in Economics and Finance<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
