@@ -5,7 +5,7 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 [CV](https://github.com/paullabonne/paullabonne.github.io/blob/main/cv.pdf)<br />
 [Github](https://github.com/paullabonne)
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Projects
 
