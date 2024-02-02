@@ -15,13 +15,13 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 **R&R International Journal of Forecasting**<br/>[[working paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)]
 - BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
-- Bayesian Mode Inference for Discrete Distributions in Economics and Finance<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
-[[working paper](https://tinbergen.nl/discussion-paper/6259/23-038-iii-bayesian-mode-inference-for-discrete-distributions-in-economics-and-finance)]
 - Bayesian estimation of modal features from flexible mixtures using discrete multimodal data<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk
 - A timely indicator of people crossborder net flow using google search queries on national newspapers
 
 ## Publications
-
+- *Bayesian Mode Inference for Discrete Distributions in Economics and Finance*<br/>
+with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
+** Economics Letters**, 2024
 - *Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data*<br/>
 with Martin Weale<br/>
 **Journal of the Royal Statistical Society (Series A)**, 2020
