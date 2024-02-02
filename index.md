@@ -21,7 +21,7 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 ## Publications
 - *Bayesian Mode Inference for Discrete Distributions in Economics and Finance*<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
-** Economics Letters**, 2024
+**Economics Letters**, 2024
 - *Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data*<br/>
 with Martin Weale<br/>
 **Journal of the Royal Statistical Society (Series A)**, 2020
