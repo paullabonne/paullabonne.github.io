@@ -22,9 +22,11 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 - *Bayesian Mode Inference for Discrete Distributions in Economics and Finance*<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 **Economics Letters**, 2024
+[[paper](https://doi.org/10.1016/j.econlet.2024.111579)] [[code](https://github.com/paullabonne/ECOLET_24)]  
 - *Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data*<br/>
 with Martin Weale<br/>
 **Journal of the Royal Statistical Society (Series A)**, 2020
+[[paper](https://doi.org/10.1111/rssa.12568)]
 - *The financial foundations of the productivity puzzle*<br/>
 with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
