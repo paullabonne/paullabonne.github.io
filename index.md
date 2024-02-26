@@ -16,10 +16,9 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 - BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 - Bayesian estimation of modal features from flexible mixtures using discrete multimodal data<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk
-- A timely indicator of people crossborder net flow using google search queries on national newspapers
-
+  
 ## Publications
-- *Bayesian Mode Inference for Discrete Distributions in Economics and Finance*<br/>
+- *Bayesian mode inference for discrete distributions in economics and finance*<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 **Economics Letters**, 2024<br />
 [[paper](https://doi.org/10.1016/j.econlet.2024.111579)] [[code](https://github.com/paullabonne/ECOLET_24)]  
