@@ -11,13 +11,13 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 
 - Risky news and credit market sentiment<br/>with Leif Anders Thorsrud<br/>
 [[working paper](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)]
-- Asymmetric uncertainty: nowcasting using skewness in real-time data<br/>
-**R&R International Journal of Forecasting**<br/>[[working paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)]
 - BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 - Bayesian estimation of modal features from flexible mixtures using discrete multimodal data<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk
   
 ## Publications
+- Asymmetric uncertainty: nowcasting using skewness in real-time data<br/>
+accepted, **International Journal of Forecasting**<br/>[[working paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[replication code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
 - *Bayesian mode inference for discrete distributions in economics and finance*<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 **Economics Letters**, 2024<br />
