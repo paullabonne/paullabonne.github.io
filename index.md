@@ -18,15 +18,15 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 ## Publications
 - Asymmetric uncertainty: nowcasting using skewness in real-time data<br/>
 accepted, **International Journal of Forecasting**<br/>[[working paper](https://www.escoe.ac.uk/publications/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[blog](https://www.escoe.ac.uk/aysmmetric-uncertainty-nowcasting-using-skewness-in-real-time-data/)] [[replication code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
-- *Bayesian mode inference for discrete distributions in economics and finance*<br/>
+- Bayesian mode inference for discrete distributions in economics and finance<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 **Economics Letters**, 2024<br />
 [[paper](https://doi.org/10.1016/j.econlet.2024.111579)] [[code](https://github.com/paullabonne/ECOLET_24)]  
-- *Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data*<br/>
+- Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data<br/>
 with Martin Weale<br/>
 **Journal of the Royal Statistical Society (Series A)**, 2020<br />
 [[paper](https://doi.org/10.1111/rssa.12568)]
-- *The financial foundations of the productivity puzzle*<br/>
+- The financial foundations of the productivity puzzle<br/>
 with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
 
