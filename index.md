@@ -25,7 +25,7 @@ with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 - Temporal disaggregation of overlapping noisy quarterly data: estimation of monthly output from UK value-added tax data<br/>
 with Martin Weale<br/>
 **Journal of the Royal Statistical Society (Series A)**, 2020<br />
-[[paper](https://doi.org/10.1111/rssa.12568)]
+[[paper](https://doi.org/10.1111/rssa.12568)] [[code](https://rss.onlinelibrary.wiley.com/hub/journal/1467985x/series-a-datasets/183_3)]
 - The financial foundations of the productivity puzzle<br/>
 with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
