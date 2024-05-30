@@ -16,7 +16,7 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
   
 ## Publications
 - Asymmetric uncertainty: nowcasting using skewness in real-time data<br/>
-**International Journal of Forecasting**, 2024<br/>[[paper](https://doi.org/10.1016/j.ijforecast.2024.05.003)] [[replication code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
+**International Journal of Forecasting**, 2024<br/>[[paper](https://doi.org/10.1016/j.ijforecast.2024.05.003)] [[code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
 - Bayesian mode inference for discrete distributions in economics and finance<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 **Economics Letters**, 2024<br />
