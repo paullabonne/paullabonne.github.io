@@ -2,7 +2,7 @@ I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centr
 
 ## Working papers
 
-- Risky news and credit market sentiment <br/>with Leif Anders Thorsrud<br/>
+* Risky news and credit market sentiment <br/>with Leif Anders Thorsrud<br/>
 [[working paper](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)]
 - BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
