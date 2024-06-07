@@ -1,4 +1,4 @@
-I am a postdoc in economics at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School. [[CV](https://github.com/paullabonne/paullabonne.github.io/blob/main/cv.pdf)] [[Github](https://github.com/paullabonne)]
+I'm an economist using maching learning and data science to tackle macroeconomic questions. I'm currently a postdoc at [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/) at the BI Norwegian Business School. [[CV](https://github.com/paullabonne/paullabonne.github.io/blob/main/cv.pdf)] [[Github](https://github.com/paullabonne)]
 
 ## Working papers
 
