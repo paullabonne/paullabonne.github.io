@@ -32,3 +32,17 @@ with Jagjit S. Chadha and Amit Kara<br/>
 
 - BayesMultiMode : Bayesian mode inference in R<br />
 <a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
+
+## Machine learning experience
+[[Forecasting](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)] / 
+[[Nowcasting](https://doi.org/10.1016/j.ijforecast.2024.05.003)] /
+Big data (PCA, Ridge / LASSO) /
+Filtering ([[Kalman](https://doi.org/10.1111/rssa.12568)] \& [[Score driven](https://github.com/paullabonne/scoreJAX)]) /
+[[Risk](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)] \& [[Uncertainty](https://doi.org/10.1016/j.ijforecast.2024.05.003)] /
+[[Bootstrap](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)], [[Monte Carlo](https://doi.org/10.1016/j.ijforecast.2024.05.003)] /
+\href{\ijf}{Maximum likelihood} /
+[[Bayesian analysis](https://github.com/paullabonne/BayesMultiMode)] /
+[[Backpropagation with automatic differentiation](https://github.com/paullabonne/scoreJAX)]) /
+[[NLP (word2vec)](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)] /
+[[Trend and seasonality](https://doi.org/10.1111/rssa.12568)] / [[Temporal disaggregation](https://doi.org/10.1111/rssa.12568)]
+   
