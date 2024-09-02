@@ -35,7 +35,7 @@ with Jagjit S. Chadha and Amit Kara<br/>
 
 ## Machine learning experience
 [Forecasting](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y) / 
-[[Nowcasting](https://doi.org/10.1016/j.ijforecast.2024.05.003)] /
+[Nowcasting](https://doi.org/10.1016/j.ijforecast.2024.05.003) /
 Big data (PCA, Ridge / LASSO) /
 Filtering ([Kalman](https://doi.org/10.1111/rssa.12568) \& [Score driven](https://github.com/paullabonne/scoreJAX)) /
 [Risk](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y) \& [Uncertainty](https://doi.org/10.1016/j.ijforecast.2024.05.003) /
