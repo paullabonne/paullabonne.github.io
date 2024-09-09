@@ -1,5 +1,5 @@
 Postdoc, [CAMP](https://www.bi.edu/research/research-centres/centre-of-applied-macroeconomics-and-commodity-prices/), BI Norwegian Business School<br/><br/>
-I'm an economist using machine learning and data science to tackle macroeconomic questions.<br/>
+Time series predictive modelling & Software development for machine learning applications. <br/>
 [[CV](https://github.com/paullabonne/paullabonne.github.io/blob/main/resume.pdf)] [[Github](https://github.com/paullabonne)]
 
 ## Working papers
