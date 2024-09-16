@@ -9,8 +9,12 @@ Time series predictive modelling & Software development for machine learning <br
 
 * BayesMultiMode : Bayesian mode inference in R<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
-  
+
+* Flexible Negative Binomial Mixtures for Credible Mode Inference in Heterogeneous Count Data from Finance, Economics and Bioinformatics<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
+[[working paper](https://tinbergen.nl/discussion-paper/6361/24-056-iii-flexible-negative-binomial-mixtures-for-credible-mode-inference-in-heterogeneous-count-data-from-finance-economics-and-bioinformatics)]
+
 ## Publications
+
 * Asymmetric uncertainty: nowcasting using skewness in real-time data<br/>
 **International Journal of Forecasting**, 2024<br/>[[paper](https://doi.org/10.1016/j.ijforecast.2024.05.003)] [[code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
   
