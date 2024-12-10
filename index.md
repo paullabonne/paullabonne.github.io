@@ -7,13 +7,14 @@ Time series predictive modelling & Software development for machine learning <br
 * *Risky news and credit market sentiment* <br/>with Leif Anders Thorsrud<br/>
 [[working paper](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)]
 
-* *BayesMultiMode : Bayesian mode inference in R*<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
-[[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
-
 * *Flexible Negative Binomial Mixtures for Credible Mode Inference in Heterogeneous Count Data from Finance, Economics and Bioinformatics*<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6361/24-056-iii-flexible-negative-binomial-mixtures-for-credible-mode-inference-in-heterogeneous-count-data-from-finance-economics-and-bioinformatics)]
 
 ## Publications
+
+* *BayesMultiMode : Bayesian mode inference in R*<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
+**Journal of Statistical Software**, provisionally accepted<br/>
+[[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 
 * *Asymmetric uncertainty: nowcasting using skewness in real-time data*<br/>
 **International Journal of Forecasting**, 2024<br/>[[paper](https://doi.org/10.1016/j.ijforecast.2024.05.003)] [[code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
