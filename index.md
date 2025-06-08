@@ -34,10 +34,14 @@ with Martin Weale<br/>
 with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
 
-## Software packages
-
+## Software
+### Creator
 - BayesMultiMode : Bayesian mode inference in R<br />
 <a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
+
+### Contributor
+- [LiNGAM](https://github.com/cdt15/lingam)
+
 
 ## Machine learning experience
 [Forecasting](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y) / 
