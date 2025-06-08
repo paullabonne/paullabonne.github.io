@@ -35,11 +35,11 @@ with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
 
 ## Software
-### Creator
+#### Creator
 - BayesMultiMode : Bayesian mode inference in R<br />
 <a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
 
-### Contributor
+#### Contributor
 - [LiNGAM](https://github.com/cdt15/lingam)
 
 
