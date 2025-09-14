@@ -1,4 +1,4 @@
-Senior Researcher, Bank of England
+Senior Economist, Bank of England
 
 Time series predictive modelling & Software development for machine learning <br/>
 [[CV](https://github.com/paullabonne/paullabonne.github.io/blob/main/resume.pdf)] [[Github](https://github.com/paullabonne)]
