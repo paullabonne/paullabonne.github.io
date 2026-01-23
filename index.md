@@ -33,7 +33,9 @@ with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
 
 ## Software
-#### Creator
+#### Author
+- Forecast Evaluation : A package for evaluating macroeconomic forecasts developed by the Bank of England<br />
+[[repo](https://github.com/bank-of-england/forecast_evaluation)]
 - BayesMultiMode : Bayesian mode inference in R<br />
 <a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
 
