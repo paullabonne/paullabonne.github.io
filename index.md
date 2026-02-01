@@ -34,10 +34,10 @@ with Jagjit S. Chadha and Amit Kara<br/>
 
 ## Software
 #### Author
-- Forecast Evaluation : A package for evaluating macroeconomic forecasts developed by the Bank of England<br />
-[[repo](https://github.com/bank-of-england/forecast_evaluation)]
-- BayesMultiMode : Bayesian mode inference in R<br />
+- [forecast_evaluation](https://github.com/bank-of-england/forecast_evaluation) : A package for evaluating macroeconomic forecasts developed by the Bank of England<br />
+![PyPI - Version](https://img.shields.io/pypi/v/forecast_evaluation)
+- [BayesMultiMode](https://github.com/paullabonne/BayesMultiMode) : Bayesian mode inference in R<br />
 <a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
 
 #### Contributor
-- [LiNGAM](https://github.com/cdt15/lingam)
+- [LiNGAM](https://github.com/cdt15/lingam) : Discovery of non-gaussian linear causal models
