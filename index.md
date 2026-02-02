@@ -16,7 +16,7 @@ R&R Journal of Econometrics [[working paper](https://tinbergen.nl/discussion-pap
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 
 * *Asymmetric uncertainty: nowcasting using skewness in real-time data*<br/>
-**International Journal of Forecasting**, 2024<br/>[[paper](https://doi.org/10.1016/j.ijforecast.2024.05.003)] [[code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
+**International Journal of Forecasting**, 2025<br/>[[paper](https://doi.org/10.1016/j.ijforecast.2024.05.003)] [[code](https://github.com/paullabonne/IJF_24)] [[Python/JAX implementation](https://github.com/paullabonne/scoreJAX)]
   
 * *Bayesian mode inference for discrete distributions in economics and finance*<br/>
 with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
