@@ -35,8 +35,7 @@ with Jagjit S. Chadha and Amit Kara<br/>
 ## Software
 #### Author
 - [forecast_evaluation](https://github.com/bank-of-england/forecast_evaluation) : A package for evaluating macroeconomic forecasts<br />
-[![PyPI](https://img.shields.io/pypi/v/forecast_evaluation?label=pypi%20package)](https://pypi.org/project/forecast-evaluation/)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/forecast_evaluation)
+<a href="(https://pypi.org/project/forecast-evaluation/"> <img align="left" src="https://img.shields.io/pypi/v/forecast_evaluation?label=pypi%20package"> </a> &nbsp; <img align="left" src="[https://cranlogs.r-pkg.org/badges/BayesMultiMode](https://img.shields.io/pypi/dm/forecast_evaluation))">
 - [BayesMultiMode](https://github.com/paullabonne/BayesMultiMode) : Bayesian mode inference in R<br />
 <a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
 
