@@ -3,16 +3,16 @@ Economist @ Bank of England <br/>
 
 ## Working papers
 
-* *Risky news and credit market sentiment* <br/>with Leif Anders Thorsrud<br/>
-R&R Journal of Economic Dynamics and Control [[working paper](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)]
-
 * *Flexible Negative Binomial Mixtures for Credible Mode Inference in Heterogeneous Count Data from Finance, Economics and Bioinformatics*<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 R&R Journal of Econometrics [[working paper](https://tinbergen.nl/discussion-paper/6361/24-056-iii-flexible-negative-binomial-mixtures-for-credible-mode-inference-in-heterogeneous-count-data-from-finance-economics-and-bioinformatics)]
 
 ## Publications
 
+* *Risky news and credit market sentiment* <br/>with Leif Anders Thorsrud<br/>
+**Journal of Economic Dynamics and Control**, accepted [[working paper](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3107610/CAMP_WP_14_2023.pdf?sequence=1&isAllowed=y)]
+
 * *BayesMultiMode : Bayesian mode inference in R*<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
-**Journal of Statistical Software**, provisionally accepted<br/>
+**Journal of Statistical Software**, accepted<br/>
 [[working paper](https://tinbergen.nl/discussion-paper/6262/23-041-iii-bayesmultimode-bayesian-mode-inference-in-r)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 
 * *Asymmetric uncertainty: nowcasting using skewness in real-time data*<br/>
