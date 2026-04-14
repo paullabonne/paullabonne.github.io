@@ -3,6 +3,10 @@ Economist @ Bank of England <br/>
 
 ## Working papers
 
+* *Learning from forecast errors: the Bank’s enhanced approach to forecast evaluation*<br/>
+with Raphael Abiry, James Hurley, Paul Labonne, David Latto, Harry Li, Andre Moreira, Joseph Oyegoke and Sumer Singh <br/>
+[[Macro Technical Paper No. 6](https://www.bankofengland.co.uk/-/media/boe/files/macro-technical-paper/2026/learning-from-forecast-errors-the-banks-enhanced-approach-to-forecast-evaluation.pdf)]
+
 * *Flexible Negative Binomial Mixtures for Credible Mode Inference in Heterogeneous Count Data from Finance, Economics and Bioinformatics*<br/>with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk<br/>
 R&R Journal of Econometrics [[working paper](https://tinbergen.nl/discussion-paper/6361/24-056-iii-flexible-negative-binomial-mixtures-for-credible-mode-inference-in-heterogeneous-count-data-from-finance-economics-and-bioinformatics)]
 
