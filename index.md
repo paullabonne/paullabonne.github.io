@@ -13,7 +13,8 @@ R&R Journal of Econometrics [[working paper](https://tinbergen.nl/discussion-pap
 ## Publications
 
 * *Risky news and credit market sentiment* <br/>with Leif Anders Thorsrud<br/>
-**Journal of Economic Dynamics and Control**, accepted [[paper](https://www.sciencedirect.com/science/article/pii/S0165188926000771)]
+**Journal of Economic Dynamics and Control**, 2026 <br/>
+[[paper](https://www.sciencedirect.com/science/article/pii/S0165188926000771)]
 
 * *BayesMultiMode : Bayesian mode inference in R*<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
 **Journal of Statistical Software**, accepted<br/>
