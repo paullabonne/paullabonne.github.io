@@ -1,0 +1,52 @@
+body {
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  color: #222;
+  max-width: 780px;
+  margin: 2.5rem auto;
+  padding: 0 1.25rem;
+  line-height: 1.55;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.2rem;
+  border: none;
+}
+
+h1 + p {
+  font-size: 1.05rem;
+  color: #555;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.25rem;
+}
+
+a {
+  color: #1a66c2;
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+ul {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.6rem;
+}
+
+li br + *,
+li > br {
+  /* keep the second line of an item subtly secondary */
+}
+
+li br {
+  /* spacing handled by line-height */
+}
