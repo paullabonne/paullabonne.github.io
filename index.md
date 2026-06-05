@@ -17,7 +17,7 @@ R&R Journal of Econometrics [[working paper](https://tinbergen.nl/discussion-pap
 [[paper](https://www.sciencedirect.com/science/article/pii/S0165188926000771)]
 
 * *BayesMultiMode : Bayesian mode inference in R*<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
-**Journal of Statistical Software**, accepted<br/>
+**Journal of Statistical Software**,<br/>
 [[paper](https://www.jstatsoft.org/article/view/v116i03)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 
 * *Asymmetric uncertainty: nowcasting using skewness in real-time data*<br/>
