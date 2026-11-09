@@ -7,7 +7,7 @@ labonnepaul@gmail.com · [paullabonne.github.io](https://paullabonne.github.io) 
 ## Experience
 
 * **Bank of England**, 2025 –\
-  Senior Economist
+  Senior Researcher
 * **Imperial College London, Department of Computing**, 2025\
   Research Associate
 * **BI Norwegian Business School, Department of Economics**, 2021 – 2024\
@@ -34,14 +34,21 @@ labonnepaul@gmail.com · [paullabonne.github.io](https://paullabonne.github.io) 
 
 ## Software
 
-**Author**
+### Author
+#### OPERA ecosystem
+* [opera-eco](https://github.com/bank-of-england/opera-eco): package, test and skill manager for the OPERA ecosystem
+* [forecast_evaluation](https://github.com/bank-of-england/forecast_evaluation): package for evaluating macroeconomic forecasts
+* [forecast-realtime](https://github.com/bank-of-england/forecast-realtime): real-time orchestration of forecasting models
+* [forecast-combo](https://github.com/bank-of-england/forecast-combo): forecast combination
+* [news-decomp](https://github.com/bank-of-england/news-decomp): analysis of forecast levels and revisions
+* [bvar](https://github.com/bank-of-england/bvar): Bayesian VAR tools for forecasting
+* [nowcast-midas](https://github.com/bank-of-england/nowcast-midas): mixed-frequency nowcasting with MIDAS
 
-* [forecast_evaluation](https://github.com/bank-of-england/forecast_evaluation), package for evaluating macroeconomic forecasts (PyPI)
-* [BayesMultiMode](https://github.com/paullabonne/BayesMultiMode), Bayesian mode inference in R (CRAN)
+### R
+* [BayesMultiMode](https://github.com/paullabonne/BayesMultiMode): Bayesian mode inference in R (CRAN)
 
-**Contributor**
-
-* [LiNGAM](https://github.com/cdt15/lingam), discovery of non-Gaussian linear causal models
+### Contributions
+* [LiNGAM](https://github.com/cdt15/lingam): discovery of non-Gaussian linear causal models
 
 ## Languages
 
@@ -58,7 +65,7 @@ French (native), English (fluent).
   **Journal of Economic Dynamics and Control**, 2026
 * *BayesMultiMode: Bayesian mode inference in R*\
   with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk\
-  **Journal of Statistical Software**, accepted
+  **Journal of Statistical Software**, 2026
 * *Asymmetric uncertainty: nowcasting using skewness in real-time data*\
   **International Journal of Forecasting**, 2025
 * *Bayesian mode inference for discrete distributions in economics and finance*\
@@ -74,7 +81,7 @@ French (native), English (fluent).
 ## Working papers
 
 * *Learning from forecast errors: the Bank's enhanced approach to forecast evaluation*\
-  with Raphael Abiry, James Hurley, David Latto, Harry Li, Andre Moreira, Joseph Oyegoke and Sumer Singh\
+  with Raphael Abiry, James Hurley, Paul Labonne, David Latto, Harry Li, Andre Moreira, Joseph Oyegoke and Sumer Singh\
   Bank of England Macro Technical Paper No. 6, 2026
 * *Flexible Negative Binomial Mixtures for Credible Mode Inference in Heterogeneous Count Data from Finance, Economics and Bioinformatics*\
   with Jamie Cross, Lennart Hoogerheide and Herman K. van Dijk\

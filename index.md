@@ -17,7 +17,7 @@ R&R Journal of Econometrics [[working paper](https://tinbergen.nl/discussion-pap
 [[paper](https://www.sciencedirect.com/science/article/pii/S0165188926000771)]
 
 * *BayesMultiMode : Bayesian mode inference in R*<br/>with Nalan Basturk, Jamie Cross, Peter de Knijff, Lennart Hoogerheide and Herman K. van Dijk<br/>
-**Journal of Statistical Software**,<br/>
+**Journal of Statistical Software**, 2026<br/>
 [[paper](https://www.jstatsoft.org/article/view/v116i03)] [[R package](https://github.com/paullabonne/BayesMultiMode)]
 
 * *Asymmetric uncertainty: nowcasting using skewness in real-time data*<br/>
@@ -38,11 +38,19 @@ with Jagjit S. Chadha and Amit Kara<br/>
 **National Institute Economic Review**, 2017
 
 ## Software
-#### Author
+### Author
+#### OPERA ecosystem
+- [opera-eco](https://github.com/bank-of-england/opera-eco) : Package, test and skill manager for the OPERA ecosystem<br />
 - [forecast_evaluation](https://github.com/bank-of-england/forecast_evaluation) : A package for evaluating macroeconomic forecasts<br />
-<a href="(https://pypi.org/project/forecast-evaluation/"> <img align="left" src="https://img.shields.io/pypi/v/forecast_evaluation?label=pypi%20package"> </a> &nbsp; <img align="left" src="https://img.shields.io/pypi/dm/forecast_evaluation">
+- [forecast_evaluation](https://github.com/bank-of-england/forecast_evaluation) : Evaluates and visualises vintaged forecasts<br />
+- [forecast-realtime](https://github.com/bank-of-england/forecast-realtime) : Runs forecasting models across data vintages<br />
+- [forecast-combo](https://github.com/bank-of-england/forecast-combo) : Combines forecasts using averaging, regression and error-based weights<br />
+- [news-decomp](https://github.com/bank-of-england/news-decomp) : Analyses contributions to forecast levels and revisions<br />
+- [bvar](https://github.com/bank-of-england/bvar) : Bayesian VAR tools for forecasting<br />
+- [nowcast-midas](https://github.com/bank-of-england/nowcast-midas) : Mixed-frequency nowcasting with MIDAS and forecast combination<br />
+
+#### R
 - [BayesMultiMode](https://github.com/paullabonne/BayesMultiMode) : Bayesian mode inference in R<br />
-<a href="https://CRAN.R-project.org/package=BayesMultiMode"> <img align="left" src="https://www.r-pkg.org/badges/version/BayesMultiMode"> </a> &nbsp; <img align="left" src="https://cranlogs.r-pkg.org/badges/BayesMultiMode">
 
 #### Contributor
 - [LiNGAM](https://github.com/cdt15/lingam) : Discovery of non-gaussian linear causal models
